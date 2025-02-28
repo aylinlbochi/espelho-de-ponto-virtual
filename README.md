@@ -9,6 +9,7 @@ Este projeto é um espelho de ponto virtual desenvolvido em Python com Tkinter p
 🐍 Python
 🖥️ Tkinter (Interface Gráfica)
 📂 CSV (Armazenamento dos dados)
+
 🛠 Funcionalidades
 ✅ Registrar horários de entrada, intervalo, retorno e saída
 ✅ Gerar um relatório de horas trabalhadas
